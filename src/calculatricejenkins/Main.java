@@ -10,10 +10,8 @@ package calculatricejenkins;
  * @author hac
  */
 public class Main {
-    public Main() {
-    }
-
+    
     public static void main(String[] args) {
-        new Calculatrice();
+        Calculatrice calculatric = new Calculatrice();
     }
 }
